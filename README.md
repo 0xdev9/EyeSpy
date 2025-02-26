@@ -15,7 +15,7 @@ pip install pynput
 ```
 3. Clone the project:
 ```bash
-git clone https://github.com/yourusername/EyeSpy.git
+git clone https://github.com/SiIv3r/EyeSpy.git
 cd EyeSpy
 ```
 
